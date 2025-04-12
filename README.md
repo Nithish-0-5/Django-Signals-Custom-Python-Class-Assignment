@@ -40,16 +40,25 @@ A custom `Rectangle` class is implemented with the following features:
 ```python
 {'length': 10}
 {'width': 5}
+```
 
+## 📁 Repository Structure
+```
+📦 assignment-django-signals/
+├── rectangle.py
+├── signals_sync_demo.py
+├── signals_thread_demo.py
+├── signals_transaction_demo.py
+└── README.md
+```
 
-✅ Submission Note
+## ✅ Submission Note
 
-This assignment was completed as per the provided instructions.
-All three Django signal questions are supported by code files and verified logic.
+This assignment was completed as per the provided instructions.  
+All three Django signal questions are supported by code files and verified logic.  
 The Rectangle class supports iteration with required output format.
 
-⸻
+## 👤 Submitted By
 
-👤 Submitted By
-	•	Name: Nitish
-	•	Month/Year: April 2025
+- **Name:** Nitish  
+- **Month/Year:** April 2025
