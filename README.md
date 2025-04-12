@@ -40,3 +40,16 @@ A custom `Rectangle` class is implemented with the following features:
 ```python
 {'length': 10}
 {'width': 5}
+
+
+✅ Submission Note
+
+This assignment was completed as per the provided instructions.
+All three Django signal questions are supported by code files and verified logic.
+The Rectangle class supports iteration with required output format.
+
+⸻
+
+👤 Submitted By
+	•	Name: Nitish
+	•	Month/Year: April 2025
